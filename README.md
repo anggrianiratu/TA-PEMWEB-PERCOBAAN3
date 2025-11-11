@@ -32,7 +32,7 @@ Selain itu, Bootstrap dilengkapi dengan utility classes yang memudahkan pengatur
 yang lengkap dan komunitas yang besar, Bootstrap menjadi pilihan utama bagi developer pemula maupun profesional untuk membangun website modern yang responsif, konsisten, dan cross-browser compatible.
 </p>
 
-### Author
+#### Author
 * Nama: Anggriani Luthfiyah Ratu
 * NPM: 2315061058
 * Kelas : Pemweb-B
